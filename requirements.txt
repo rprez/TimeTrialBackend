@@ -1,0 +1,4 @@
+python-socketio
+gunicorn
+eventlet
+uvicorn[standard]
