@@ -1,4 +1,6 @@
-python-socketio
+flask_socketio
 gunicorn
-eventlet
+eventlet==0.30.2
 uvicorn[standard]
+flask
+flask-login
