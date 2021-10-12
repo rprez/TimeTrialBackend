@@ -3,4 +3,4 @@ gunicorn
 eventlet==0.30.2
 uvicorn[standard]
 flask
-flask-login
+flask-jwt-extended
